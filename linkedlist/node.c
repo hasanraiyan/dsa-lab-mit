@@ -7,5 +7,3 @@ struct Node {
 	int data;
 	struct Node* next;  // Pointer to next node
 }
-
-
